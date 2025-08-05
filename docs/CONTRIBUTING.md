@@ -169,7 +169,7 @@ The existing codebase does not comply with the above specifications in some aspe
 
 #### How to modify the intermediate representation
 
-The intermediate representation is described by [il_version_1.rnc](https://github.com/funstory-ai/BabelDOC/blob/main/BabelDOC/format/pdf/document_il/il_version_1.rnc). Corresponding Python data classes are generated using [xsdata](https://xsdata.readthedocs.io/en/latest/). The files `il_version_1.rng`, `il_version_1.xsd`, and `il_version_1.py` are auto-generated and must not be manually modified.
+The intermediate representation is described by [il_version_1.rnc](https://github.com/funstory-ai/BabelDOC/blob/main/babeldoc/format/pdf/document_il/il_version_1.rnc). Corresponding Python data classes are generated using [xsdata](https://xsdata.readthedocs.io/en/latest/). The files `il_version_1.rng`, `il_version_1.xsd`, and `il_version_1.py` are auto-generated and must not be manually modified.
 
 ##### Format RNC file
 
